@@ -3,6 +3,8 @@ Like to play with Data
 <h1 align="center">Hi 👋, I'm SURAJ CHAUHAN</h1>
 <h3 align="center">A passionate toward analytics</h3>
 
+<img src="https://gifdb.com/images/featured/hacker-lj7znezbwb0nuba4.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chauhanjii01&label=Profile%20views&color=0e75b6&style=flat" alt="chauhanjii01" /> </p>
 
 - 🌱 I’m currently learning **python**
